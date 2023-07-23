@@ -21,9 +21,13 @@ Hiện tại mình chỉ có bài tập cho yêu cầu thứ 1 và 4, còn bài 
 Cái bài tập crawl trang báo điện tử thì nhiều khả năng phải dùng server vì dùng máy thường crawl rất lâu, có thể hơn cả 1 ngày. Dưới đây là thông tin server phòng MMLab mà các bạn có thể xài ké, thậm chí quậy banh chành nó :)))
 
 Username: mmlab
+
 Pass:ttdptnhandang
+
 IP: 192.168.28.60
 
 Ngồi ở trên trường thì các bạn có thể SSH trực tiếp thông qua những thông tin trên. Khi ra ngoài khỏi UIT các bạn cần sử dụng OpenVPN để truy cập tới mạng nội bộ ở trường rồi dùng tài khoản trên để vào.
 
-Đối với VPN các bạn sử dụng tài khoản chứng thực và theo hướng dẫn sau: https://phongdl.uit.edu.vn/su-dung-openvpn
+Đối với VPN các bạn sử dụng tài khoản chứng thực và theo hướng dẫn sau:
+ 
+https://phongdl.uit.edu.vn/su-dung-openvpn
