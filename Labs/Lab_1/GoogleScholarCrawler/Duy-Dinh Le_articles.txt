@@ -1,0 +1,97 @@
+National Institute of Informatics, Japan at TRECVID 2008.
+National institute of informatics, japan at trecvid 2007: Bbc rushes summarization
+The video browser showdown: a live evaluation of interactive video search tools
+NII-UIT at MediaEval 2016 Predicting Media Interestingness Task.
+Unsupervised face annotation by mining the web
+ERI-MAC: An energy-harvested receiver-initiated MAC protocol for wireless sensor networks
+Nii-hitachi-uit at trecvid 2016
+Evaluation of multiple features for violent scenes detection
+Visual analytics of political networks from face-tracking of news video
+Ent-Boost: Boosting using entropy measures for robust object detection
+An efficient method for face retrieval from large video datasets
+Feature selection by AdaBoost for SVM-based face detection
+Evaluation of deep models for real-time small object detection
+Scalable face track retrieval in video archives using bag-of-faces sparse representation
+A multi-stage approach to fast face detection
+Robust face track finding in video using tracked points
+Hand gesture classification using boosted cascade of classifiers
+Re-ranking for person re-identification
+Face retrieval in large-scale news video datasets
+Shin’ichi Satoh,“
+When face-tracking meets social networks: a story of politics in news videos
+A receiver-initiated mac protocol for energy harvesting sensor networks
+Multimedia event detection using segment-based approach for motion feature
+A text segmentation based approach to video shot boundary detection
+Finding important people in large news video databases using multimodal and clustering analysis
+Face retrieval in broadcasting news video by fusing temporal and intensity information
+An efficient feature selection method for object detection
+Multimedia event detection using event-driven multiple instance learning
+A combination of spatial pyramid and inverted index for large-scale image retrieval
+AttRel: an approach to person re-identification by exploiting attribute relationships
+NII-UIT-VBS: A video browsing tool for known item search
+Efficient traffic sign detection using bag of visual words and multi-scales sift
+Rushes summarization using different redundancy elimination approaches
+Fusion of local and global features for efficient object detection
+Tutorial--Video Indexing, Search, Detection, and Description with Focus on TRECVID
+Video indexing, search, detection, and description with focus on trecvid
+Efficient large-scale multi-class image classification by learning balanced trees
+You always look again: Learning to detect the unseen objects
+Computational optimization for violent scenes detection
+NII-UIT: a tool for known item search by sequential pattern filtering
+NII, Japan at MediaEval 2011 Violent Scenes Detection Task.
+NII-ISM, Japan at TRECVID 2007: High Level Feature Extraction.
+Robust object detection using fast feature selection from huge feature sets
+Query-adaptive late fusion with neural network for instance search
+Integrating spatial information into inverted index for large-scale image retrieval
+NII, Japan at ImageCLEF 2011 Photo Annotation Task.
+Video instance search via spatial fusion of visual words and object proposals
+Nii-uit browser: a multimodal video search system
+Evaluation of Low-Level features for detecting Violent Scenes in videos
+Person re-identification using deformable part models
+A comprehensive study of feature representations for semantic concept detection
+Face Detection, Tracking, and Recognition for Broadcast Video.
+YADA: you always dream again for better object detection
+Image Annotation Fusing Content-Based and Tag-Based Technique Using Support Vector Machine and Vector Space Model
+Indexing faces in broadcast news video archives
+Efficient concept detection by fusing simple visual features
+A Software Defined Networking Approach for Guaranteeing Delay in Wi-Fi Networks
+Targeting Bufferbloat in Wi-Fi Networks: An Emulator-based Approach
+Clustering web video search results with convolutional neural networks
+Violent scene detection using mid-level feature
+Auto face re-ranking by mining the web and video archives
+Shin’ichi Satoh, and Tomoko Matsui,“
+Boosting face retrieval by using relevant set correlation clustering
+Person X detector
+NII Hitachi UIT at TRECVID 2018
+Semantic extraction and object proposal for video search
+Video event detection by exploiting word dependencies from image captions
+A social network analysis of face tracking in news video
+Human Action recognition from depth videos using multi-projection based representation
+Concept Detection Using Local Binary Patterns and SVM
+Learning Balanced Trees for Large Scale Image Classification
+Sum-max video pooling for complex event recognition
+Nii, japan at the first thumos workshop 2013
+NII-KAORI-PERSON-SEARCH: A General Framework for Indexing and Retrieving People's Appearance in Large Video Archives
+Improving retake detection by adding motion feature
+Fast face sequence matching in large-scale video databases
+NTT Communication Science Laboratories and NII at TRECVID 2011 Instance Search Task
+Video search by multi-modal and clustering analysis
+Noise Removal Based Query Pre-processing to Improve Face Search Performance in Large Scale Video Databases
+Graph-based visual instance mining with geometric matching and nearest candidates selection
+Efficient Large Scale Image Classification via Prediction Score Decomposition
+Using node relationships for hierarchical classification
+NII-HITACHI-UIT at TRECVID 2015 instance search
+A Classification-Based Approach for Retake and Scene Detection in Rushes Video
+Robust eye localization in video by combining eye detector and eye tracker
+Ranking Image Annotation Using Vector Space Model
+Improving image categorization by using multiple instance learning with spatial relation
+NII Hitachi UIT at TRECVID 2019
+Persons-in-places: a deep features based approach for searching a specific person in a specific location
+Searching a specific person in a specific location using deep features
+News Archive Exploration Combining Face Detection and Tracking with Network Visual Analytics
+Human Action Recognition from Depth Videos Using Pool of Multiple Projections with Greedy Selection
+Network Visual Analytics of News Videos based on Facetracking
+Cross-View Action Recognition by Projection-Based Augmentation
+Large scale multi-class classification using latent classifiers
+Shin'ichi Satoh, and Duc Anh Duong. 2015
+Recommend-Me: recommending query regions for image search

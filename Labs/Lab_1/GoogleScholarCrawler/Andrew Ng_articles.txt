@@ -1,0 +1,250 @@
+Latent dirichlet allocation
+On spectral clustering: Analysis and an algorithm
+ROS: an open-source Robot Operating System
+Rectifier nonlinearities improve neural network acoustic models
+Recursive deep models for semantic compositionality over a sentiment treebank
+Reading digits in natural images with unsupervised feature learning
+Learning word vectors for sentiment analysis
+Large scale distributed deep networks
+Distance metric learning with application to clustering with side-information
+An analysis of single-layer networks in unsupervised feature learning
+Apprenticeship learning via inverse reinforcement learning
+Multimodal deep learning
+Efficient sparse coding algorithms
+On discriminative vs. generative classifiers: A comparison of logistic regression and naive bayes
+Algorithms for inverse reinforcement learning.
+Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations
+Deep speech 2: End-to-end speech recognition in english and mandarin
+Building high-level features using large scale unsupervised learning
+Cheap and fast–but is it good? evaluating non-expert annotations for natural language tasks
+Feature selection, L1 vs. L2 regularization, and rotational invariance
+Policy invariance under reward transformations: Theory and application to reward shaping
+Chexnet: Radiologist-level pneumonia detection on chest x-rays with deep learning
+Deep speech: Scaling up end-to-end speech recognition
+Reasoning with neural tensor networks for knowledge base completion
+Self-taught learning: transfer learning from unlabeled data
+Make3d: Learning 3d scene structure from a single still image
+Map-reduce for machine learning on multicore
+Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network
+Parsing natural scenes and natural language with recursive neural networks
+Semi-supervised recursive autoencoders for predicting sentiment distributions
+Semantic compositionality through recursive matrix-vector spaces
+Zero-shot learning through cross-modal transfer
+Improving word representations via global context and multiple word prototypes
+Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison
+Sparse autoencoder
+Unsupervised feature learning for audio classification using convolutional deep belief networks
+Sparse deep belief net model for visual area V2
+Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis
+Learning depth from single monocular images
+On optimization methods for deep learning
+Parsing with compositional vector grammars
+Autonomous inverted helicopter flight via reinforcement learning
+End-to-end text recognition with convolutional neural networks
+Robotic grasping of novel objects using vision
+Dynamic pooling and unfolding recursive autoencoders for paraphrase detection
+Simultaneous localization and mapping with sparse extended information filters
+Learning syntactic patterns for automatic hypernym discovery
+Large-scale deep unsupervised learning using graphics processors
+Grounded compositional semantics for finding and describing images with sentences
+Deep learning with COTS HPC systems
+An application of reinforcement learning to aerobatic helicopter flight
+3-d depth reconstruction from a single still image
+Deep learning for chest radiograph diagnosis: A retrospective comparison of the CheXNeXt algorithm to practicing radiologists
+Learning Feature Representations with K-Means.
+Convolutional-recursive deep learning for 3d object classification
+An empirical evaluation of deep learning on highway driving
+Cardiologist-level arrhythmia detection with convolutional neural networks
+A sparse sampling algorithm for near-optimal planning in large Markov decision processes
+The importance of encoding versus training with sparse coding and vector quantization
+Autonomous helicopter aerobatics through apprenticeship learning
+Improving Text Classification by Shrinkage in a Hierarchy of Classes.
+Risk allocation in the private provision of public infrastructure
+Deep voice: Real-time neural text-to-speech
+Semantic taxonomy induction from heterogenous evidence
+PEGASUS: A policy search method for large MDPs and POMDPs
+High speed obstacle avoidance using monocular vision and reinforcement learning
+Text detection and character recognition in scene images with unsupervised feature learning
+Measuring invariances in deep networks
+Tuned models of peer assessment in MOOCs
+Tackling climate change with machine learning
+Efficient l~ 1 regularized logistic regression
+End-to-end people detection in crowded scenes
+On random weights and unsupervised feature learning.
+Discriminative learning of markov random fields for segmentation of 3d scan data
+Retention and intention in massive open online courses: In depth
+Unsupervised learning of hierarchical representations with convolutional deep belief networks
+Energy disaggregation via discriminative sparse coding
+Unsupervised deep learning applied to breast density segmentation and mammographic risk scoring
+Web question answering: Is more always better?
+Data-Intensive Question Answering.
+Deep-learning-assisted diagnosis for knee magnetic resonance imaging: development and retrospective validation of MRNet
+Learning continuous phrase representations and syntactic parsing with recursive neural networks
+Tiled convolutional neural networks
+ICA with reconstruction cost for efficient overcomplete feature learning
+Online and batch learning of pseudo-metrics
+Recurrent neural networks for noise reduction in robust ASR
+Constructing informative priors using transfer learning
+Improving palliative care with deep learning
+Stable algorithms for link analysis
+Preventing" overfitting" of cross-validation data
+Shift-invariance sparse coding for audio classification
+Sparse filtering
+A dynamic bayesian network model for autonomous 3d reconstruction from a single indoor image
+Exploration and apprenticeship learning in reinforcement learning
+Link analysis, eigenvectors and stability
+Near-Bayesian exploration in polynomial time
+Learning for control from multiple demonstrations
+Learning 3-d scene structure from a single still image
+Depth Estimation Using Monocular and Stereo Cues.
+Classification with hybrid generative/discriminative models
+Using inaccurate models in reinforcement learning
+An information-theoretic analysis of hard and soft assignment methods for clustering
+An experimental and theoretical comparison of model selection methods
+Transfer learning for text classification
+Mura: Large dataset for abnormality detection in musculoskeletal radiographs
+Selecting receptive fields in deep networks
+Regularization and feature selection in least-squares temporal difference learning
+A control architecture for quadruped locomotion over rough terrain
+Data noising as smoothing in neural network language models
+Contextual search and name disambiguation in email using graphs
+CS229 Lecture notes
+Machine learning yearning
+Policy search by dynamic programming
+Approximate planning in large POMDPs via reusable trajectories
+On feature selection: learning with exponentially many irreverent features as training examples
+Robotic grasping of novel objects
+Learning grasp strategies with partial shape information.
+Reactive grasping using optical proximity sensors
+Learning factor graphs in polynomial time and sample complexity
+Robust textual inference via graph matching
+Learning deep energy models
+Deep learning of invariant features via simulated fixations in video
+Hierarchical apprenticeship learning with application to quadruped locomotion
+From uncertainty to belief: Inferring the specification within
+Discriminative training of kalman filters.
+First-pass large vocabulary continuous speech recognition using bi-directional recurrent dnns
+Lexicon-free conversational speech recognition with neural networks
+Ngboost: Natural gradient boosting for probabilistic prediction
+What artificial intelligence can and can’t do right now
+Deep learning–assisted diagnosis of cerebral aneurysms using the HeadXNet model
+Building DNN acoustic models for large vocabulary speech recognition
+Bayesian estimation for autonomous object manipulation based on tactile sensors
+Neural language correction with character-based attention
+Apprenticeship learning for motion planning with application to parking lot navigation
+Automatic single-image 3d reconstructions of indoor manhattan world scenes
+Fast gaussian process regression using kd-trees
+Solving the problem of cascading errors: Approximate bayesian inference for linguistic annotation pipelines
+Shaping and policy search in reinforcement learning
+Simultaneous mapping and localization with sparse extended information filters: Theory and initial results
+Impact of a deep learning assistant on the histopathologic classification of liver cancer
+Learning to open new doors
+Grasping novel objects with depth segmentation
+Stair: Hardware and software architecture
+Efficient multiple hyperparameter learning for log-linear models
+Grasping with application to an autonomous checkout robot
+Integrating visual and range data for robotic object detection
+A low-cost compliant 7-DOF robotic manipulator
+Apprenticeship learning for helicopter control
+High-accuracy 3d sensing for mobile manipulation: Improving object detection and door opening
+Learning vehicular dynamics, with application to modeling helicopters
+Comparing speech and keyboard text entry for short messages in two languages on touchscreen phones
+Learning to grasp objects with multiple contact points
+Peripheral-foveal vision for real-time object recognition and tracking in video
+Moco pretraining improves representation and transferability of chest x-ray models
+Learning to merge word senses
+CheXNet: radiologist-level pneumonia detection on chest x-rays with deep learning. 2017
+Chexnet: Radiologist-level pneumonia detection on chest x-rays with deep learning. arXiv 2017
+Chexnet: Radiologist-level pneumonia detection on chest x-rays with deep learning. arXiv
+Robust textual inference via learning and abductive reasoning
+UFLDL tutorial
+Learning to grasp novel objects using vision
+Learning 3-d object orientation from images
+Noising and denoising natural language: Diverse backtranslation for grammar correction
+The stanford littledog: A learning and rapid replanning approach to quadruped locomotion
+Learning random walk models for inducing word dependency distributions
+Probabilistic Mobile Manipulation in Dynamic Environments, with Application to Opening Doors.
+A probabilistic approach to mixed open-loop and closed-loop control, with application to extreme autonomous driving
+CheXbert: combining automatic labelers and expert annotations for accurate radiology report labeling using BERT
+Exponential Family Sparse Coding with Application to Self-taught Learning.
+Make3D: Depth Perception from a Single Still Image.
+Autonomous autorotation of an RC helicopter
+Clustering with the k-means algorithm
+Stereo vision and terrain modeling for quadruped robots
+Inverse Reinforcement Learning.
+Learning new facts from knowledge bases with neural tensor networks and semantic word vectors
+Machine learning yearning: Technical strategy for ai engineers in the era of deep learning
+Spam Deobfuscation using a Hidden Markov Model.
+Policy search via the signed derivative.
+CheXtransfer: performance and parameter efficiency of ImageNet models for chest X-Ray interpretation
+Learning sound location from a single microphone
+Emergence of object-selective features in unsupervised feature learning
+Origins of the modern MOOC (xMOOC)
+Solving uncertain Markov decision problems
+Task-space trajectories via cubic spline optimization
+Speech is 3x faster than typing for english and mandarin text entry on mobile devices
+A probabilistic model for semantic word vectors
+PENet—a scalable deep-learning model for automated diagnosis of pulmonary embolism using volumetric CT imaging
+Mechatronic design of an integrated robotic hand
+Autonomous sign reading for semantic mapping
+Proceedings of the 30th International Conference on Machine Learning
+Unsupervised learning of visual invariance with temporal coherence
+A vision-based system for grasping novel objects in cluttered environments
+Scalable learning for object detection with GPU hardware
+Joint calibration of multiple sensors
+Quadruped robot obstacle negotiation via reinforcement learning
+CheXaid: deep learning assistance for physician diagnosis of tuberculosis using chest x-rays in patients with HIV
+AppendiXNet: deep learning for diagnosis of appendicitis from a small dataset of CT exams using video pretraining
+Online bounds for Bayesian algorithms
+First spectroscopic imaging observations of the sun at low radio frequencies with the Murchison Widefield Array prototype
+Unsupervised learning models of primary cortical receptive fields and receptive field plasticity
+Cs294a lecture notes: Sparse autoencoder
+Nuts and bolts of building AI applications using Deep Learning
+Solving uncertain Markov decision processes
+Systems and methods for speech transcription
+Low-cost accelerometers for robotic manipulator perception
+Policy search via density estimation
+On local rewards and scaling distributed reinforcement learning
+Autonomous operation of novel elevators for robot navigation
+Robust textual inference using diverse knowledge sources
+Machine learning. coursera
+Multi-camera object detection for robotics
+A Fast Data Collection and Augmentation Procedure for Object Recognition.
+Machine Learning and AI via Brain simulations
+Advice for applying machine learning
+Hierarchical Bayesian models for applications in information retrieval
+Offering verified credentials in massive open online courses: MOOCs and technology to advance learning and learning research (Ubiquity symposium)
+RGS12 is a critical proinflammatory factor in the pathogenesis of inflammatory arthritis via acting in Cox2-RGS12-NF kappa B pathway activation loop
+A crystal-free single-chip micro mote with integrated 802.15. 4 compatible transceiver, sub-mw ble compatible beacon transmitter, and cortex m0
+Arrangement and method for three-dimensional depth image construction
+Countdown regression: sharp and calibrated survival predictions
+Ambulatory atrial fibrillation monitoring using wearable photoplethysmography with deep learning
+Artificial intelligence is the new electricity
+Learning omnidirectional path following using dimensionality reduction.
+Learning first-order Markov models for control
+MLOps: From model-centric to data-centric AI
+3-d reconstruction from sparse views using monocular vision
+AI transformation playbook: How to lead your company into the AI era
+Deep learning
+Machine learning course
+RGS12 inhibits the progression and metastasis of multiple myeloma by driving M1 macrophage polarization and activation in the bone marrow microenvironment
+Touch based perception for object manipulation
+Medaug: Contrastive learning leveraging patient metadata improves representations for chest x-ray interpretation
+Evaluation of a machine learning model based on pretreatment symptoms and electroencephalographic features to predict outcomes of antidepressant treatment in adults with …
+Clinical value of predicting individual treatment effects for intensive blood pressure therapy: a machine learning experiment to estimate treatment effects from randomized …
+Optimal investment with inside information and parameter uncertainty
+groupTime: preference based group scheduling
+Vision-based classification of skin cancer using deep learning
+Deep learning for class-generic object detection
+Stable adaptive control with online learning
+AI is the new electricity
+What data scientists should know about deep learning
+Surfactant cocktail-aided extraction/precipitation/on-pellet digestion strategy enables efficient and reproducible sample preparation for large-scale quantitative proteomics
+Machine learning yearning. 2018
+Word-level acoustic modeling with convolutional vector regression
+Modeling cortical representational plasticity with unsupervised feature learning
+A Factor Graph Model for Software Bug Finding.
+Unsupervised feature learning and deep learning
+Transfer learning by constructing informative priors
+Radgraph: Extracting clinical entities and relations from radiology reports
+Automated coronary calcium scoring using deep learning with multicenter external validation

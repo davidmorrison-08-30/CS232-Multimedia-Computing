@@ -1,0 +1,150 @@
+Few-shot object detection via baby learning
+https://www.sciencedirect.com/science/article/pii/S0262885622000270
+
+[PDF][PDF] Vehicle re-identification with learned representation and spatial verification and abnormality detection with multi-adaptive vehicle detectors for traffic video …
+http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Nguyen_Vehicle_Re-identification_with_Learned_Representation_and_Spatial_Verification_and_Abnormality_CVPRW_2019_paper.pdf?ref=https://githubhelp.com
+
+[PDF][PDF] NII-HITACHI-UIT at TRECVID 2016.
+https://www-nlpir.nist.gov/projects/tvpubs/tv16.papers/nii-hitachi-uit.pdf
+
+A hybridized flower pollination algorithm and its application on microgrid operations planning
+https://www.mdpi.com/1696920
+
+[PDF][PDF] Lightweight Deep Convolutional Network for Tiny Object Recognition.
+https://pdfs.semanticscholar.org/91b2/7d83d1a659e710ec951daf6ffdedb149d78d.pdf
+
+Smart lifelog retrieval system with habit-based concepts and moment visualization
+https://dl.acm.org/doi/abs/10.1145/3326460.3329155
+
+[PDF][PDF] Shrec'19 track: Extended 2D scene image-based 3D scene retrieval
+https://diglib.eg.org/xmlui/bitstream/handle/10.2312/3dor20191060/041-048.pdf?sequence=1
+
+An Optimal WSN Node Coverage Based on Enhanced Archimedes Optimization Algorithm
+https://www.mdpi.com/1740088
+
+Flood level prediction via human pose estimation from social media images
+https://dl.acm.org/doi/abs/10.1145/3372278.3390704
+
+Traffic flow analysis with multiple adaptive vehicle detectors and velocity estimation with landmark-based scanlines
+http://openaccess.thecvf.com/content_cvpr_2018_workshops/w3/html/Tran_Traffic_Flow_Analysis_CVPR_2018_paper.html
+
+Enhancing endoscopic image classification with symptom localization and data augmentation
+https://dl.acm.org/doi/abs/10.1145/3343031.3356073
+
+Lifelogging retrieval based on semantic concepts fusion
+https://dl.acm.org/doi/abs/10.1145/3210539.3210545
+
+A comparison of methods for 3D scene shape retrieval
+https://www.sciencedirect.com/science/article/pii/S1077314220301090
+
+[PDF][PDF] SHREC'18: Rgb-d object-to-cad retrieval
+https://hkust-vgd.ust.hk/scenenn/home/pdf/rgbd2cad_shrec18.pdf
+
+Video search based on semantic extraction and locally regional object proposal
+https://link.springer.com/chapter/10.1007/978-3-319-73600-6_49
+
+[PDF][PDF] Shrec'17: Rgb-d to cad retrieval with objectnn dataset
+https://www.cs.umb.edu/~craigyu/papers/shrec17.pdf
+
+Adaptive multi-vehicle motion counting
+https://link.springer.com/article/10.1007/s11760-022-02184-5
+
+[PDF][PDF] Shrec'19 track: Extended 2D scene sketch-based 3D scene retrieval
+https://diglib.eg.org/bitstream/handle/10.2312/3dor20191059/033-039.pdf
+
+NowAndThen: a social network-based photo recommendation tool supporting reminiscence
+https://dl.acm.org/doi/abs/10.1145/3012709.3012738
+
+[PDF][PDF] Lifelog Moment Retrieval with Visual Concept Fusion and Text-based Query Expansion.
+http://ceur-ws.org/Vol-2125/paper_109.pdf
+
+A combination of spatial pyramid and inverted index for large-scale image retrieval
+https://www.igi-global.com/article/a-combination-of-spatial-pyramid-and-inverted-index-for-large-scale-image-retrieval/130338
+
+[PDF][PDF] Frame-based Evaluation with Deep Features to Predict Emotional Impact of Movies.
+http://ceur-ws.org/Vol-2283/MediaEval_18_paper_25.pdf
+
+HCMUS at the NTCIR-14 Lifelog-3 Task
+https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings14/pdf/ntcir/04-NTCIR14-LIFELOG-LeN-slides.pdf
+
+Video indexing, search, detection, and description with focus on trecvid
+https://dl.acm.org/doi/abs/10.1145/3078971.3079044
+
+Video instance search via spatial fusion of visual words and object proposals
+https://link.springer.com/article/10.1007/s13735-019-00172-z
+
+Abstraction-perception preserving cartoon face synthesis
+https://link.springer.com/article/10.1007/s11042-023-14853-9
+
+[PDF][PDF] An Application of Residual Network and Faster-RCNN for Medico: Multimedia Task at MediaEval 2018.
+https://www.eurecom.fr/publication/5759/download/data-publi-5759.pdf
+
+[PDF][PDF] Smart shopping assistant: A multimedia and social media augmented system with mobile devices to enhance customers' experience and interaction
+https://core.ac.uk/download/pdf/301359902.pdf
+
+Local descriptors without orientation normalization to enhance landmark regconition
+https://link.springer.com/chapter/10.1007/978-3-319-02741-8_34
+
+Realtime arbitrary-shaped template matching process
+https://ieeexplore.ieee.org/abstract/document/6485395/
+
+[PDF][PDF] Guided instance segmentation framework for semi-supervised video instance segmentation
+https://openreview.net/pdf?id=zOQlsxNDC
+
+Multimodal smart interactive presentation system
+https://link.springer.com/chapter/10.1007/978-3-642-39330-3_8
+
+SketchANIMAR: Sketch-based 3D Animal Fine-Grained Retrieval
+https://arxiv.org/abs/2304.05731
+
+Query-adaptive late fusion with neural network for instance search
+https://ieeexplore.ieee.org/abstract/document/7340795/
+
+Augmented media for traditional magazines
+https://dl.acm.org/doi/abs/10.1145/2350716.2350733
+
+An Improved Honey Badger Algorithm for Coverage Optimization in Wireless Sensor Network
+https://jit.ndhu.edu.tw/article/view/2876
+
+Nii-uit browser: a multimodal video search system
+https://link.springer.com/chapter/10.1007/978-3-319-14442-9_28
+
+Building an Automatic Image Tagger with DenseNet and Transfer Learning
+https://ieeexplore.ieee.org/abstract/document/9044223/
+
+Deep convolutional neural network in deformable part models for face detection
+https://link.springer.com/chapter/10.1007/978-3-319-29451-3_53
+
+Boosting speed and accuracy in deformable part models for face image in the wild
+https://ieeexplore.ieee.org/abstract/document/7422386/
+
+Antique Photo Restoration and Colorization via Generative Model
+https://ieeexplore.ieee.org/abstract/document/9924704/
+
+[PDF][PDF] NII-HITACHI-UIT at TRECVID 2017.
+https://www-nlpir.nist.gov/projects/tvpubs/tv17.papers/nii_hitachi_uit.pdf
+
+Baby Learning with Vision Transformer for Face Recognition
+https://ieeexplore.ieee.org/abstract/document/9924795/
+
+Semantic extraction and object proposal for video search
+https://link.springer.com/chapter/10.1007/978-3-319-51814-5_44
+
+[PDF][PDF] Flood event analysis base on pose estimation and water-related scene recognition
+https://ceur-ws.org/Vol-2670/MediaEval_19_paper_45.pdf
+
+Interpolation based anime face style transfer
+https://ieeexplore.ieee.org/abstract/document/9237764/
+
+[PDF][PDF] Solving Life Puzzle with Visual Context-based Clustering and Habit Reference.
+https://scholar.archive.org/work/ot55ryot7vetdcdfxb3ygclksi/access/wayback/http://ceur-ws.org/Vol-2380/paper_155.pdf
+
+An Optimal Cascade Reservoir Operation Based on Multi-objective Water Cycle Algorithm
+https://link.springer.com/chapter/10.1007/978-3-031-22200-9_20
+
+An Enhanced Algorithm of Bees Colony for Finding Best Threshold in Medical Images
+https://link.springer.com/chapter/10.1007/978-3-030-97610-1_35
+
+How to Choose Deep Face Models for Surveillance System?
+https://link.springer.com/chapter/10.1007/978-3-319-76081-0_31
+
